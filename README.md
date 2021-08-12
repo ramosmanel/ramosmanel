@@ -22,11 +22,8 @@
 <div>
   <a href="https://instagram.com/marks.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
- ##
-  
- <div style="display: inline_block">
-     <img align="center" alt="manel-gif" height="300" width="600" src="https://i.pinimg.com/originals/5a/a9/67/5aa967c7c075ef6bcad073dbb91feaa5.gif">
+ </div>
+ <div>
+ <img align="right" alt="manel-gif" height="300" width="450" src="https://i.pinimg.com/originals/5a/a9/67/5aa967c7c075ef6bcad073dbb91feaa5.gif">
 </div>
   
