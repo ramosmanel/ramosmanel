@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Emanuel Ramos 🤜
+### 📎Olá!! Eu sou o Emanuel Ramos 🤜
 
  Codando e testando visando o máximo de qualidade⏫ e o mínimo de erros⏬!
  <br>
