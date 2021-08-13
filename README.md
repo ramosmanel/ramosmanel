@@ -1,8 +1,11 @@
-### Olá!! Eu sou o Emanuel Ramos 👋
+### Olá!! Eu sou o Emanuel Ramos 🤜
 
- Codando e caçando bugs antes do usuário! 
+ Codando e testando visando o máximo de qualidade⏫ e o mínimo de erros⏬!
+ <br>
+ Caçando bugs onde eles se esconderem⚠️👀!!
+ - ♥️ Apaixonado por programação
  - 👨🏾‍💻DEV / QA
- - ☕️Estudando Java
+ - ☕️Estudando Processos de Automação com Java
  
  <div>
   <a href="https://github.com/ramosemanuel">
