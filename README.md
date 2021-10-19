@@ -26,6 +26,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  <div>
+ <br>
  <img align="left" alt="manel-gif" height="300" width="450" src="https://64.media.tumblr.com/0631b3f04b02e00457c36781b2e4fa4a/tumblr_pv0qhc44AI1rcufwuo1_540.gifv">
 </div>
   
