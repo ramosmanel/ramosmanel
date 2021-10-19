@@ -10,7 +10,7 @@
  <div>
   <a href="https://github.com/ramosemanuel">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramosmanel&theme=panda&show_icons=true" />
-   <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmanel&theme=buefy &show_icons=true" />
+   <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmanel&theme=synthwave&show_icons=true" />
    
 </div>
   <div style="display: inline_block"><br>
