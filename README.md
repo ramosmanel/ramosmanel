@@ -2,10 +2,10 @@
 
  Codando e testando visando o máximo de qualidade⏫ e o mínimo de erros⏬!
  <br>
- Caçando bugs onde eles se esconderem⚠️👀!!
  - ♥️ Apaixonado por programação
- - 👨🏾‍💻DEV / QA
- - ☕️Estudando Processos de Automação com Java
+ - 👨🏾‍💻 DEV / QA
+ - ☕️ SELENIUM/CYPRESS 
+ - Desenvolvedor Full-Stack (Ou tentando...)
  
  <div>
   <a href="https://github.com/ramosemanuel">
@@ -31,6 +31,5 @@
  </div>
  <div>
  
- <br><img align="left" alt="manel-gif" height="300" width="450" src="https://64.media.tumblr.com/0631b3f04b02e00457c36781b2e4fa4a/tumblr_pv0qhc44AI1rcufwuo1_540.gifv">
 </div>
   
