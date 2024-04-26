@@ -1,12 +1,9 @@
 ### 📎Olá!! Eu sou o Emanuel Ramos 🤜
-<div>
   <br>
- - ♥️ Apaixonado por programação
- - 👨🏾‍💻 DEV / QA
+ - ♥️ Apaixonado por programação <br>
+ - 👨🏾‍💻 DEV / QA <br>
  - ☕️ Desenvolvedor Back-end <br>
  <br>
- 
-</div>
 
  <div>
   <a href="https://github.com/ramosemanuel">
