@@ -3,8 +3,7 @@
   <br>
  - ♥️ Apaixonado por programação
  - 👨🏾‍💻 DEV / QA
- - ☕️ SELENIUM/CYPRESS 
- - Desenvolvedor Full-Stack (Ou tentando...)
+ - ☕️ Desenvolvedor Back-end <br>
  <br>
  
 </div>
