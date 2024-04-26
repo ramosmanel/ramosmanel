@@ -1,11 +1,14 @@
 ### 📎Olá!! Eu sou o Emanuel Ramos 🤜
- <br>
+<div>
+  <br>
  - ♥️ Apaixonado por programação
  - 👨🏾‍💻 DEV / QA
  - ☕️ SELENIUM/CYPRESS 
  - Desenvolvedor Full-Stack (Ou tentando...)
  <br>
  
+</div>
+
  <div>
   <a href="https://github.com/ramosemanuel">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramosmanel&theme=panda&show_icons=true" />
