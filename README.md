@@ -4,6 +4,7 @@
  - 👨🏾‍💻 DEV / QA
  - ☕️ SELENIUM/CYPRESS 
  - Desenvolvedor Full-Stack (Ou tentando...)
+ <br>
  
  <div>
   <a href="https://github.com/ramosemanuel">
