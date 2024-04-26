@@ -1,10 +1,10 @@
 ### 📎Olá!! Eu sou o Emanuel Ramos 🤜
 
-  <h2>
+  <h4>
  - ♥️ Apaixonado por programação <br>
 - 👨🏾‍💻 DEV / QA <br>
  - ☕️ Desenvolvedor Back-end <br>
-  </h2>
+  </h4>
  <br>
 
  <div>
