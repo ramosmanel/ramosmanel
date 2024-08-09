@@ -25,10 +25,11 @@
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
 ![PostegreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
-### Development Tools:
-![IntelliJ](https://img.shields.io/badge/-intellij-0D1117?style=for-the-badge&logo=intellij&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Studying in this moment
+![SpringSecurity](https://img.shields.io/badge/-springsecurity-0D1117?style=for-the-badge&logo=springsecurity&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-0D1117?style=for-the-badge&logo=rabbitmq&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=footer"/>
