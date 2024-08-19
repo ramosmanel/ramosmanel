@@ -26,7 +26,7 @@
 ![PostegreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment
-![SpringSecurity](https://img.shields.io/badge/-springsecurity-0D1117?style=for-the-badge&logo=springsecurity&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Neo4j](https://img.shields.io/badge/-neo4j-0D1117?style=for-the-badge&logo=neo4j&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-0D1117?style=for-the-badge&logo=rabbitmq&labelColor=0D1117&textColor=0D1117)&nbsp;
 
