@@ -19,18 +19,18 @@
   <a href="https://www.linkedin.com/in/emanuel-ramos-851635247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
- ### Main skills:
+ ### Main skills
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
 ![PostegreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment
 ![Neo4j](https://img.shields.io/badge/-neo4j-0D1117?style=for-the-badge&logo=neo4j&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-0D1117?style=for-the-badge&logo=rabbitmq&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
+![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=footer"/>
 
