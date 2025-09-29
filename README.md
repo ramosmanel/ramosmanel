@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 20-year-old Brazilian software developer specializing in **Java back-end development**.  
+I'm a 21-year-old Brazilian software developer specializing in **Java back-end development**.  
 I currently work with **Java**, **Spring Boot**, and **PostgreSQL**, and I'm deepening my knowledge in **database administration (DBA)** and scalable system architecture.  
 I'm passionate about automation, clean code, and robust solutions for complex problems.
 
