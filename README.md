@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 I'm a 21-year-old Brazilian software developer specializing in **Java back-end development**.  
 I currently work with **Java**, **Spring Boot**, and **PostgreSQL**, and I'm deepening my knowledge in **database administration (DBA)** and scalable system architecture.  
@@ -12,7 +12,7 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 **Backend**  
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk)&nbsp;
@@ -34,7 +34,7 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 
 ---
 
-## 🚀 Flagship Project
+### 🚀 Flagship Project
 
 - 🌐 [**Atlas MFD**](http://atlasmfd.com/) – Web-based system developed for RMS Law Firm to manage and monitor judicial processes, centralize logs, automate operational workflows, and provide analytical dashboards for process tracking and performance insights. Developed using Java, Spring Boot, React, PostgreSQL, with a RESTful architecture, focusing on scalability, automation, and data observability.
 
@@ -42,7 +42,7 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 
 ---
 
-## 🎯 Goals for 2026
+### 🎯 Goals for 2026
 
 - 🌐 Focus on web interface development to specialize as a Full Stack Developer, strengthening skills in TypeScript and React
 - ⚛️ Explore and evaluate Angular to broaden frontend framework expertise
@@ -50,11 +50,11 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
-<div align="center"> 
-  <a href="mailto:emanuelramos20004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-  <a href="https://www.linkedin.com/in/emanuelrlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+<p align="center">
+  <a href="mailto:emanuelramos20004@gmail.com"><img src="https://img.shields.io/badge/-emanuelramos20004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emanuelrlima/"><img src="https://img.shields.io/badge/-Emanuel%20Ramos%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0E0E0&height=120&section=footer"/>
