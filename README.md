@@ -17,6 +17,7 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript)
 
 **Frameworks & Tools**  
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=springboot)&nbsp;
@@ -27,29 +28,28 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 
 **Currently Learning**  
-![Neo4j](https://img.shields.io/badge/-Neo4j-0D1117?style=for-the-badge&logo=neo4j)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress)
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔄 **Apollo** – Private Java-based system for legal data triage, developed for **Enel** to automate and manage judicial processes efficiently.  
-&nbsp;&nbsp;&nbsp;&nbsp;*I am the main developer responsible for the system's architecture and automation layer.*
-
+- 🔄 [**Atlas MFD**](http://atlasmfd.com/) – Web-based system developed for RMS Law Firm to manage and monitor judicial processes, centralize logs, automate operational workflows, and provide analytical dashboards for process tracking and performance insights. Developed using Java, Spring Boot, React, PostgreSQL, with a RESTful architecture, focusing on scalability, automation, and data observability. 
+  
 - 📊 [**Excel Data Exporter**](https://github.com/ramosmanel/Export-Data-API) – Python service that generates Excel reports from API data.
 
 - 🤖 [**Test Automation Framework**](https://github.com/ramosmanel/marcelodebittencourt-test-java) – Cucumber + Selenium-based test automation with modular architecture.
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
-- 🌱 Deepen expertise in the Spring ecosystem (Boot, Security, Data)  
-- 🗄️ Improve database modeling and administration skills (PostgreSQL)  
-- 🐳 Master containerization and deployment with Docker  
-- 🧪 Enhance unit and integration testing with JUnit and Mockito  
+- 🌐 Focus on web interface development to specialize as a Full Stack Developer, strengthening skills in TypeScript and React
+- ⚛️ Explore and evaluate Angular to broaden frontend framework expertise
+- 🔗 Take on challenges involving microservices architectures, emphasizing scalability, communication patterns, and system design
+🗃️ Begin studying non-relational (NoSQL) databases, focusing on data modeling, performance, and real-world use cases
 
 ---
 
