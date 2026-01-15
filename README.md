@@ -14,33 +14,31 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 
 ## 🧰 Tech Stack
 
-**Languages**  
+**Backend**  
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript)
 
-**Frameworks & Tools**  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=springboot)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
+**Frontend**  
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 
-**Currently Learning**  
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+**Tools**  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=springboot)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=cucumber)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Project
 
-- 🔄 [**Atlas MFD**](http://atlasmfd.com/) – Web-based system developed for RMS Law Firm to manage and monitor judicial processes, centralize logs, automate operational workflows, and provide analytical dashboards for process tracking and performance insights. Developed using Java, Spring Boot, React, PostgreSQL, with a RESTful architecture, focusing on scalability, automation, and data observability. 
-  
-- 📊 [**Excel Data Exporter**](https://github.com/ramosmanel/Export-Data-API) – Python service that generates Excel reports from API data.
+- 🌐 [**Atlas MFD**](http://atlasmfd.com/) – Web-based system developed for RMS Law Firm to manage and monitor judicial processes, centralize logs, automate operational workflows, and provide analytical dashboards for process tracking and performance insights. Developed using Java, Spring Boot, React, PostgreSQL, with a RESTful architecture, focusing on scalability, automation, and data observability.
 
-- 🤖 [**Test Automation Framework**](https://github.com/ramosmanel/marcelodebittencourt-test-java) – Cucumber + Selenium-based test automation with modular architecture.
+- 🌐 [**Apollo MFD**](http://apollomfa.com.br/) – Java-based system for legal data triage, developed for **Enel** to automate and manage judicial processes efficiently. &nbsp;&nbsp;&nbsp;&nbsp;*I am the main developer responsible for the system's architecture and automation layer.*
 
 ---
 
@@ -48,27 +46,7 @@ I'm passionate about automation, clean code, and robust solutions for complex pr
 
 - 🌐 Focus on web interface development to specialize as a Full Stack Developer, strengthening skills in TypeScript and React
 - ⚛️ Explore and evaluate Angular to broaden frontend framework expertise
-- 🔗 Take on challenges involving microservices architectures, emphasizing scalability, communication patterns, and system design
-🗃️ Begin studying non-relational (NoSQL) databases, focusing on data modeling, performance, and real-world use cases
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ramosmanel&show_icons=true&count_private=true&hide_border=true&title_color=E0E0E0&icon_color=E0E0E0&text_color=E0E0E0&bg_color=0d1117" alt="Emanuel Ramos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmanel&layout=compact&hide_border=true&title_color=E0E0E0&text_color=E0E0E0&bg_color=0d1117" />
-</div>
-
-[![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramosmanel&bg_color=0d1117&color=E0E0E0&line=E0E0E0&point=FF7043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramosmanel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
+- 🗃️ Begin studying non-relational (NoSQL) databases, focusing on data modeling, performance, and real-world use cases
 
 ---
 
